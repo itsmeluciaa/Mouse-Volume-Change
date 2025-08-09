@@ -7,7 +7,7 @@ I wanted to be able to change my system volume by using the scroll wheel on my m
 I will explain exactly how you can use this with your mouse, and change which mouse buttons will change your volume.
 
 ## How To Use
-1. First Decide If you would like eighter pressing one mouse button and at the samne time scrolling up, to change your volume. Or if you would like to press one button and scroll at the same time to do volume up, and another button+ scroll to do volume down. Select the correct file accordingly. (theres two, 1 Button is the first option, 2 Buttons is the second option.)
+1. First Decide If you would like eighter pressing one mouse button and at the same time scrolling up/down, to change your volume. Or if you would like to press one button+ scroll at the same time to do volume up, and another button+ scroll to do volume down. Select the correct script file accordingly. (Theres two: "1-Button" is the first option, "2-Buttons" is the second option.)
 
 
 ## Disclamer
