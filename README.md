@@ -19,7 +19,7 @@ XButton1= 4th mouse button. Typically performs the same function as Browser_Back
 XButton2= 5th mouse button. Typically performs the same function as Browser_Forward.
 
    
-Then, select the corresponding script file:
+Then, select the corresponding script/.exe file:
 
     For Option 1, choose the "1-Button" .exe.
     For Option 2, go with the "2-Button-XButton1-VolDown" .exe.
