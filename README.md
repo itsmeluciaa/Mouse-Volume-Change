@@ -10,6 +10,7 @@ I will explain exactly how you can use this with your mouse, and change which mo
 1. First, decide how you want to control your volume:
 
     Option 1: Press one mouse button and simultaneously scroll up or down to adjust the volume.
+   
     Option 2: Use one button + scroll for volume up, and another button + scroll for volume down.
 
 Then, select the corresponding script file:
