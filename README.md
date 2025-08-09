@@ -1,4 +1,4 @@
-#Mouse Volume Change
+# Mouse Volume Change
 
 This is an AutoHotkey script that alows you to change your system volume with your mouse.
 
