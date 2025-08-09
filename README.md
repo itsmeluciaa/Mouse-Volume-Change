@@ -11,4 +11,6 @@ I will explain exactly how you can use this with your mouse, and change which mo
 
 
 ## Disclamer
-.
+Please note that even tho there is code to prevent false anti cheat flags, some games might not like seeing your script running.
+
+Altho the only game that ever asked me to close the script was Battlefield 6, i still wanted to mention this.
